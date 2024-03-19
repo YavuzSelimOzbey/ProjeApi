@@ -1,1 +1,1 @@
-# ProjeApi DenemeDb dosyası da proje klasörüne eklenmiştir.
+# ProjeApi DenemeDb dosyası da projeye eklenmiştir.
