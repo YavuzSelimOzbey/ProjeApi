@@ -1,4 +1,4 @@
-# ProjeApi DenemeDb dosyası ve ekran görüntüleri README kısmına eklenmiştir.
+# ProjeApi DenemeDb dosyası ve ekran görüntüleri eklenmiştir.
 
 ![Product-GetAll](https://github.com/YavuzSelimOzbey/ProjeApi/assets/130294112/da4f4988-6d0e-4ec4-80eb-832c3c430b18)
 ![Product-Add](https://github.com/YavuzSelimOzbey/ProjeApi/assets/130294112/d3f6d985-0cbe-4c18-9e50-dc091511db97)
